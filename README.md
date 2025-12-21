@@ -68,7 +68,7 @@ Add your Tasklet webhook URL at **line 263** (replace the placeholder URL).
 
 ## Tasklet Agent Instructions
 
-Use the following instructions **exactly** for your Tasklet agent:
+Use the following instructions for your Tasklet agent or adapt if needed:
 
 ```text
 FINDING THE RIGHT PAGE
