@@ -1,4 +1,3 @@
-````md
 # One-Tap Voice Capture to Notion
 
 A one-tap, voice-first capture flow that lets you dictate ideas on your phone and automatically files them into the correct Notion page and section. Built for speed, minimal friction, and reliable organization.
@@ -36,7 +35,6 @@ If something goes wrong, nothing is lost.
 
 Set the following environment variables in v0:
 
-```bash
 GROQ_API_KEY=your_api_key_here
 NOTION_API_KEY=your_api_key_here
 ````
