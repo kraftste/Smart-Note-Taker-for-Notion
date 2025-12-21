@@ -37,7 +37,6 @@ Set the following environment variables in v0:
 
 GROQ_API_KEY=your_api_key_here
 NOTION_API_KEY=your_api_key_here
-````
 
 Notes:
 
