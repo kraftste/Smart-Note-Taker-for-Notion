@@ -260,7 +260,7 @@ export default function DictationPage() {
     setIsSaving(true)
 
     try {
-      const webhookUrl = "https://webhooks.tasklet.ai/v1/public/webhook?token=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+      const webhookUrl = "https://webhooks.tasklet.ai/v1/public/webhook?token=bf7da2789d0bac039af3c5efd3253473"
 
       const response = await fetch(webhookUrl, {
         method: "POST",
